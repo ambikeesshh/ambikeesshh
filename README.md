@@ -1,22 +1,10 @@
-<p align="center"><img src="banner.gif" alt="banner" width="100%"></p>
+<p align="center"><img src="banner.gif" alt="banner" width="360"></p>
 
-<h1 align="center">ambi :)</h1>
-<p align="center">
-  <a href="mailto:ambi.work@proton.me">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/protonmail/white">
-      <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/protonmail/black">
-      <img alt="email" src="https://cdn.simpleicons.org/protonmail/black" width="16">
-    </picture>
-    email
-  </a>
-  ·
-  <a href="https://discord.com/users/1284505241680871459">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/discord/white">
-      <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/discord/black">
-      <img alt="discord" src="https://cdn.simpleicons.org/discord/black" width="16">
-    </picture>
-    discord
-  </a>
-</p>
+<div align="center">
+
+# ambi :)
+
+[![Email](https://img.shields.io/badge/email-ambi.work@proton.me-6D4AFF?style=flat&logo=protonmail&logoColor=white)](mailto:ambi.work@proton.me)
+[![Discord](https://img.shields.io/badge/discord-ambikesshh-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1284505241680871459)
+
+</div>
