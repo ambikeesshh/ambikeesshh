@@ -1,4 +1,4 @@
-<p align="center"><img src="banner.gif" alt="banner" width="600"></p>
+<p align="center"><img src="banner.gif" alt="banner" width="100%"></p>
 
 <h1 align="center">ambi :)</h1>
 <p align="center">
