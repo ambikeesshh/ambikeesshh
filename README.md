@@ -1,3 +1,5 @@
+<p align="center"><img src="banner.gif" alt="banner" width="360"></p>
+
 <h1 align="center">ambi :)</h1>
 <p align="center">
   <a href="mailto:ambi.work@proton.me">
